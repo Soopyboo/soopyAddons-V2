@@ -4,9 +4,11 @@
 
 Created by SoopyBoo32, and fully integrated with the popular twitch chatbot, soopyaddons v2 is a fully updated version of soopyaddons, used and endorsed by many streamers!
 
+This module needs chattriggers! If you do not already have chattriggers installed, you can download it HERE
+
 ![image](https://user-images.githubusercontent.com/108959733/178079054-a080186d-dc73-4fdd-b150-b120114bedb3.png)
 
-This module needs chattriggers! If you do not already have chattriggers installed, you can download it HERE
+![image](https://user-images.githubusercontent.com/108959733/178079536-2815074d-c8c1-4aa9-8ba3-0adc35d0d5ad.png)
 
 Features:
 - In game player stats commands
